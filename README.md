@@ -1,3 +1,3 @@
-nipro (psad to bootstrap)
+nipro (psd to bootstrap)
 
 https://toufiqalahe.github.io/ssb-619-22/
