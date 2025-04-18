@@ -25,6 +25,7 @@ body{
 /*header start*/
 .header{
 	padding: 20px 0;
+	background-color: var(--white)!important;
 }
 .c_nav{}
 .logo{}
