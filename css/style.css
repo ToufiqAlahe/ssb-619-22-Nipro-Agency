@@ -295,6 +295,82 @@ body{
 .why_2 p{}
 .why_2 hr{}
 
+/*who start*/
+.who{
+	padding: 0 0 100px;
+	background-image: url('../images/bg3.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+}
+
+.who_1{}
+.who_1 arrow{}
+.who_1 h1{}
+
+.who_2 {
+	margin: 90px 0 0;
+}
+.who_2:hover ul li{
+	display: block;
+}
+.who_img{}
+.who_img img{}
+.who_2 h2{
+	font-family: var(--lat);
+	font-size: 18px;
+	font-weight: 700;
+	color: var(--black);
+	background-color: var(--white);
+	padding:10px 0 0 25px;
+}
+.who_2 p{
+	background-color: var(--white);
+	padding:10px 0 10px 25px;
+}
+
+/*price start*/
+.price{}
+
+.who_1{}
+.who_1 h1{}
+
+.p_item{
+	border: 1px solid var(--black);
+}
+.p_item:hover{
+	color: var(--black);
+}
+.p_s{
+	margin: 20px 0 30px 30px;
+	font-family: var(--lat);
+	font-size: 18px;
+	font-weight: 700;
+	color: var(--black);
+	text-transform: uppercase;
+}
+.p_item h2{
+	padding: 30px;
+	font-family: "Roboto", sans-serif;
+    font-size: 30px;
+    font-weight: 700;
+    color: var(--black);
+}
+.p_item h2 span{
+	font-family: "Roboto", sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    color: var(--gray);
+}
+.p_item p{
+    padding-left: 30px;
+}
+.price_btn{
+	margin: 25px 0 35px 30px;
+	border: 1px solid var(--black);
+	color: var(--gray);
+}
+
 /*footer start*/
 .footer {
     background-image: url('../images/bg2.jpg');
