@@ -1,4 +1,3 @@
-
 /*Extra small devices (portrait phones, less than 576px)*/
 @media (max-width: 575.98px) {
 /*header start*/
@@ -107,6 +106,14 @@
 /*why start*/
 .why {
     padding: 0 0 50px;
+}
+
+/*who start*/
+.who {
+    padding: 0 0 65px;
+}
+.who_2 {
+    margin: 40px 0 0;
 }
 
 /*footer start*/
@@ -218,6 +225,14 @@
     padding: 0 0 60px;
 }
 
+/*who start*/
+.who {
+    padding: 0 0 80px;
+}
+.who_2 {
+    margin: 50px 0 0;
+}
+
 /*footer start*/
 /*footer_top*/
 .footer_top {
@@ -303,6 +318,11 @@
     padding: 0 0 65px;
 }
 
+/*who start*/
+.who_2 {
+    margin: 70px 0 0;
+}
+
 /*footer start*/
 /*footer_top*/
 .footer_top {
@@ -353,6 +373,18 @@
 .why_1 h1 {
     margin: 0px 0 90px;
 }
+
+/*who start*/
+.who {
+    padding: 0 0 90px;
+}
+.who_1 h1 {
+    font-size: 28px;
+}
+.who_2 {
+    margin: 70px 0 0;
+}
+
 
 /*footer start*/
 /*footer top*/
